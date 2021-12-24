@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* class changed for selector */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -228,6 +229,7 @@ p {
     font-size: 36px;
 }
 
+/* class changed for selector */
 footer {
     padding: 30px;
     clear: both;
